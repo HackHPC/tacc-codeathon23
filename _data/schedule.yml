@@ -8,8 +8,8 @@ general_schedule:
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    events: 
-      - name: Introductions and Onboarding 
+    events:
+      - name: Introductions and Onboarding
         type: Icebreaker
         links:
           - title: TACC Site
@@ -19,16 +19,16 @@ general_schedule:
         type: Presentation
         links:
           - title: Slides
-            #icon: 
+            #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
-  
+
   - date: "June 6, 2023"
     day: Tuesday
     timebegin: 9am
-    timeend: 4pm
+    timeend: 2pm
     timezone: CT
     location: TACC - ACB 1.468
-    events: 
+    events:
       - name: Breakfast
       - name: Computational Thinking
         type: Presentation
@@ -40,7 +40,7 @@ general_schedule:
         type: Team Work
         links:
           #- title: Teams Slide Deck
-            #icon:
+          #icon:
           #  url: "assets/Slide_Decks/day_1/MS-CC Groups.pdf"
           - title: Team Introduction Slides
             #icon:
@@ -48,13 +48,15 @@ general_schedule:
       - name: Jupyter Notebooks
         type: Hands-On
         links:
+          - title: DesignSafe-CI
+            url: https://www.designsafe-ci.org
           - title: TACC Analysis Portal (TAP)
             url: https://tap.tacc.utexas.edu
       - name: "Hi I'm Joe"
         type: Code
         links:
           - title: Slides
-            #icon: 
+            #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
           - title: Sample Code
             #icon
@@ -63,16 +65,16 @@ general_schedule:
         type: Code
         links:
           - title: Slides
-            #icon: 
+            #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
-      
+
   - date: "June 7, 2023"
     day: Wednesday
     timebegin: 9:00am
-    timeend: 4:00pm
+    timeend: 2:00pm
     timezone: CT
     location: TACC - ACB 1.468
-    events: 
+    events:
       - name: Breakfast
       #time
       - name: "SIR Model"
@@ -87,8 +89,7 @@ general_schedule:
             #icon
             url: "https://scholar.google.com"
       - name: Person/Population/Community Objects
-      - name: Adding Mitigation Parameters 
-      
+      - name: Adding Mitigation Parameters
 
   - date: "June 8, 2023"
     day: Thursday
@@ -96,11 +97,11 @@ general_schedule:
     timeend: 4:00pm
     timezone: CT
     location: TACC - ROC 1.468
-    events: 
+    events:
       - name: Breakfast
       - name: Hackathon Starts
-        type: Team Work  
-      - name: Team Presentations 
+        type: Team Work
+      - name: Team Presentations
         description: >
           Deliverables: <br>
             &nbsp; 1) Github Repo<br>
@@ -114,6 +115,3 @@ general_schedule:
         time: 3:00pm
       - name: Closing
         time: 4:00pm
-    
-
-
