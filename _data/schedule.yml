@@ -4,7 +4,7 @@ general_schedule:
     timebegin: 2pm
     timeend: 4pm
     timezone: CT
-    location: TACC 
+    location: TACC - ROC 1.468
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
@@ -27,7 +27,7 @@ general_schedule:
     timebegin: 9am
     timeend: 4pm
     timezone: CT
-    location: TACC 
+    location: TACC - ACB 1.468
     events: 
       - name: Breakfast
       - name: Computational Thinking
@@ -71,14 +71,14 @@ general_schedule:
     timebegin: 9:00am
     timeend: 4:00pm
     timezone: CT
-    location: TACC
+    location: TACC - ACB 1.468
     events: 
       - name: Breakfast
       #time
       - name: "SIR Model"
         type: Discussion
         links:
-        - title: Slides
+          - title: Slides
             #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
       - name: "Gathering Research Data"
@@ -86,19 +86,28 @@ general_schedule:
           - title: Google Scholar
             #icon
             url: "https://scholar.google.com"
-          
       - name: Person/Population/Community Objects
       - name: Adding Mitigation Parameters 
+      
+
+  - date: "June 8, 2023"
+    day: Thursday
+    timebegin: 9:00am
+    timeend: 4:00pm
+    timezone: CT
+    location: TACC - ROC 1.468
+    events: 
+      - name: Breakfast
       - name: Hackathon Starts
-        time: 12:00pm
-      - name: Working Lunch 
+        type: Team Work  
       - name: Team Presentations 
         description: >
           Deliverables: <br>
             &nbsp; 1) Github Repo<br>
-            &nbsp; 2) Presentation Slide Deck with:<br>
+            &nbsp; 2) Team Poster with:<br>
             &nbsp;&nbsp;  * Team Name<br>
             &nbsp;&nbsp;  * Team Members<br>
+            &nbsp;&nbsp;  * Team Picture<br>
             &nbsp;&nbsp;  * Team Goal<br>
             &nbsp;&nbsp;  * Mitigation Reference<br>
             &nbsp;&nbsp;  * Results (at least one graph) <br>

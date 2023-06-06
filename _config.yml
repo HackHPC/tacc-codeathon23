@@ -14,10 +14,10 @@ url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.
 #baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 
-logo: assets/imgs/logos/MS-CC_Logo-100px.png #'assets/imgs/ms-cccolorssm-text.png'
+logo: assets/imgs/TACC-Codeathon-header-nav.png #'assets/imgs/ms-cccolorssm-text.png'
 favicon: 'assets/favicon.ico'
 headerimage: 'assets/imgs/TACC_Codeathon2023-Header.png'
-headerbackground: 'assets/imgs/atlskyline-alt.jpg' #This is linked to the hero_img class in theme.scss
+headerbackground: 'assets/imgs/frontera.jpg' #This is linked to the hero_img class in theme.scss
 
 #twitter_username: ccloudhack
 #instagram_username: schack@hackhcp.org
@@ -71,6 +71,22 @@ authors:
   
 organizers: 
     
+  - name:           Rosalia Gomez
+    affiliation:    "Texas Advanced Computing Center"
+    site:           https://tacc.utexas.edu/about/staff-directory/rosalia-gomez/
+    linkedin:       https://www.linkedin.com/in/rosalia-gomez-368035198/
+    avatar:         assets/imgs/organizers/rosalia-gomez.jpeg__576x576_q85_subsampling-2.jpg
+    bio:            "Rosalia joined TACC in July 2011. She leads education and outreach activities that expand understanding and appreciation of the value of high performance computing and the career opportunities available in Science, Technology, Engineering, and Mathematics (STEM) fields, particularly among underrepresented populations."
+    email:          ragomez@tacc.utexas.edu
+
+  - name:           Anne Bowden
+    affiliation:    "Texas Advanced Computing Center"
+    #site:           https://tacc.utexas.edu/about/staff-directory/rosalia-gomez/
+    #linkedin:       https://www.linkedin.com/in/rosalia-gomez-368035198/
+    avatar:         assets/imgs/organizers/anne_bowden.jpeg
+    bio:            "Scalable Visualization Technologies"
+    email:          adb@tacc.utexas.edu
+  
   - name:           Charlie Dey
     affiliation:    "Texas Advanced Computing Center"
     site:           https://www.tacc.utexas.edu/about/directory/charlie-dey
@@ -122,6 +138,8 @@ organizers:
     email:          jpowell@tacc.utexas.edu
     twitter:        https://twitter.com/jeaimehp
     github:         https://github.com/jeaimehp 
+  
+
 
  # - name:           Boyd Wilson
  #   affiliation:    "Omnibond"

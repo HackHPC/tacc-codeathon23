@@ -4,14 +4,14 @@ topmenu:
 - title: Home
   url: ""
 
-- title: Teams
-  url: "teams/"
+#- title: Teams
+#  url: "teams/"
 
 - title: Schedule
   url: "schedule/"
 
-- title: About
-  url: "about/"
+#- title: About
+#  url: "about/"
 
 #- title: Contact
  # url: "contact/"
@@ -25,10 +25,10 @@ topmenu:
 - title: Resources
   url: "resources/"
 
-- title: MS-CC Hackathon
-  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+#- title: MS-CC Hackathon
+#  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
+#  class: "ml-2 btn btn-dark text-white px-3"
+#  external: true
 
 # Footer Menu
 footermenu:
@@ -39,7 +39,7 @@ footermenu:
 - title: Schedule
   url: "schedule/"
 
-- title: MS-CC Hackathon
-  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
+- title: "CI Research 4 Social Change REU is made possible with the support of National Science Foundation Award #2150390"
+  url: https://tacc.utexas.edu/education/undergraduates-graduates/reu/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
