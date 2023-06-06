@@ -1,302 +1,302 @@
 teams:
-  - teamname: Cyborgs
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/cyborgs/Cyborgs.jpg # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Oluwatosin Oyekeye, Maya Ody-Ajike, Oluwalayomi Fadero, Oluwanifemi Fadero, Terrance Jim]
-      role: Member
-      affiliation: [Alabama State University, Fisk University, Fisk University, Fisk University, Navajo Technical University]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Science and Mathametics, Computer Science, IT Technician]
-    links:
-        - name: Team Introduction
-          url: assets/teams/cyborgs/cyborgs_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Cristale x Teezandos - Plugged In w/ Fumez The Engineer
-          tag: themesong
-          url: https://www.youtube.com/watch?v=QopN26wi708
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"
-        - name: Github Repo
-          url: https://github.com/mayaajike/MS_CC-2023-Hack 
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/cyborgs/CYBORGS.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"  
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
-          url: assets/teams/cyborgs/cyborgs_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/cyborgs/CYBORGS-img.png
-          url: assets/teams/cyborgs/CYBORGS.pdf
-
-  - teamname: House of Py
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/house_of_py/House_of_Py.png # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Bryce Alexander, Charlize Bey, Danielle Devose, Lejohn Thomas, Taylor Sharperson]
-      role: Member
-      affiliation: [FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University)]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Science, Information Technology, Computer Information Systems]
-    links:
-        - name: Team Introduction
-          url: assets/teams/house_of_py/house_of_py_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Nardo Wick - Who Want Smoke??
-          tag: themesong
-          url: https://www.youtube.com/watch?v=FrbBJr6CAsw
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
-        - name: Github Repo
-          url: https://github.com/Lejohnnn/House-Of-Py
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/house_of_py/house_of_py_intro-350px.png
-          url: assets/teams/house_of_py/house_of_py_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/house_of_py/house_of_py_finalpresentation-img.png
-          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
-
-  - teamname: Team DRT Queens
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/team_drt_queens/Team_DRT_Queens.png # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Dailyn Rollins, Raquel Shivers, Taylor Colbert]
-      role: Member
-      affiliation: [FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University)]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Information Technology, Computer Science]
-    links:
-        - name: Team Introduction
-          url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Beyoncé - Diva
-          tag: themesong
-          url: https://www.youtube.com/watch?v=rNM5HW13_O8
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
-        - name: Github Repo
-          url: https://github.com/RaquelS04/VaccineEffectiveness
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"  
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png
-          url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/team_drt_queens/drt_queens_finalpresentation-img.png
-          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
-
-  - teamname: Team HARP
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/team_harp/Team_HARP.jpg # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Aayush Bhatta, Henry Alumona, Pratyush Khanal, Rejin Nepal]
-      role: Member
-      affiliation: [Fisk University, Fisk University, Fisk University, Fisk University]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Science, Computer Science]
-    links:
-        - name: Team Introduction
-          url: assets/teams/the_nwa/the_nwa_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Teen Titans
-          tag: themesong
-          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"
-        - name: Github Repo
-          url: https://github.com/Aayush000/MS-CC 
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/team_harp/Team_HARP.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/team_harp/team_harp_intro-350px.png
-          url: assets/teams/team_harp/team_harp_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/team_harp/Team_HARP-img.png
-          url: assets/teams/team_harp/Team_HARP.pdf
-  
-  - teamname: The NWA (Nerds With Attitudes)
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/the_nwa/The_NWA.png # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Aaliyah Lockett, Tyler Mills, Jadrien Huell, Javian Huell, Terrel Brown]
-      role: Member
-      affiliation: [Albany State University, Albany State University, Claflin University, Claflin University, FAMU (Florida Agricultural and Mechanical University)]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Engineering, Computer Engineering, Computer Science]
-    links:
-        - name: Team Introduction
-          url: assets/teams/the_nwa/the_nwa_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Team Titans
-          tag: themesong
-          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
-        - name: Github Repo
-          url: https://github.com/NWA-Nerds-With-Attitudes/MS-CC-NWA-Vaccine-Code
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black" 
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png
-          url: assets/teams/the_nwa/the_nwa_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/the_nwa/NWA_FianlPresentation-img.png
-          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
-
-  - teamname: The Tech Titans
-    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    #url:  # Full URL
-    image: assets/teams/the_tech_titans/The_Tech_Titans.jpg # assets/project/
-    #date: 03/2021 &ndash; Project Teams
-    #title: COMING SOON!
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Javaughn George, Amrinder Singh, Ricardo Barnes, Spundun Gusain, Subash Neupane]
-      role: Member
-      affiliation: [Alabama State University, Claflin University, Claflin University, Claflin University, Claflin University]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, N/A, Computer Science, Computer, N/A]
-    links:
-        - name: Team Introduction
-          url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Remember The Name - Fort Minor
-          tag: themesong
-          url: https://www.youtube.com/watch?v=VDvr08sCPOc
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"  
-        - name: Github Repo
-          url: https://github.com/RicardoBarnes/project
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black" 
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png
-          url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/the_tech_titans/ttFinalPResentation-img.png
-          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
-        
+#  - teamname: Cyborgs
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/cyborgs/Cyborgs.jpg # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Oluwatosin Oyekeye, Maya Ody-Ajike, Oluwalayomi Fadero, Oluwanifemi Fadero, Terrance Jim]
+#      role: Member
+#      affiliation: [Alabama State University, Fisk University, Fisk University, Fisk University, Navajo Technical University]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Computer Science, Computer Science and Mathametics, Computer Science, IT Technician]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/cyborgs/cyborgs_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Cristale x Teezandos - Plugged In w/ Fumez The Engineer
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=QopN26wi708
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: https://github.com/mayaajike/MS_CC-2023-Hack 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/cyborgs/CYBORGS.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"  
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
+#          url: assets/teams/cyborgs/cyborgs_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/cyborgs/CYBORGS-img.png
+#          url: assets/teams/cyborgs/CYBORGS.pdf
+#
+#  - teamname: House of Py
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/house_of_py/House_of_Py.png # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Bryce Alexander, Charlize Bey, Danielle Devose, Lejohn Thomas, Taylor Sharperson]
+#      role: Member
+#      affiliation: [FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University)]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Computer Science, Computer Science, Information Technology, Computer Information Systems]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/house_of_py/house_of_py_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Nardo Wick - Who Want Smoke??
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=FrbBJr6CAsw
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"  
+#        - name: Github Repo
+#          url: https://github.com/Lejohnnn/House-Of-Py
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/house_of_py/house_of_py_intro-350px.png
+#          url: assets/teams/house_of_py/house_of_py_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/house_of_py/house_of_py_finalpresentation-img.png
+#          url: assets/teams/house_of_py/house_of_py_finalpresentation.pdf
+#
+#  - teamname: Team DRT Queens
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/team_drt_queens/Team_DRT_Queens.png # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Dailyn Rollins, Raquel Shivers, Taylor Colbert]
+#      role: Member
+#      affiliation: [FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University), FAMU (Florida Agricultural and Mechanical University)]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Information Technology, Computer Science]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Beyoncé - Diva
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=rNM5HW13_O8
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"  
+#        - name: Github Repo
+#          url: https://github.com/RaquelS04/VaccineEffectiveness
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"  
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/team_drt_queens/team_drt_queens_intro-350px.png
+#          url: assets/teams/team_drt_queens/team_drt_queens_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/team_drt_queens/drt_queens_finalpresentation-img.png
+#          url: assets/teams/team_drt_queens/drt_queens_finalpresentation.pdf
+#
+#  - teamname: Team HARP
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/team_harp/Team_HARP.jpg # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Aayush Bhatta, Henry Alumona, Pratyush Khanal, Rejin Nepal]
+#      role: Member
+#      affiliation: [Fisk University, Fisk University, Fisk University, Fisk University]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Computer Science, Computer Science, Computer Science]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/the_nwa/the_nwa_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Teen Titans
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: https://github.com/Aayush000/MS-CC 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/team_harp/Team_HARP.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/team_harp/team_harp_intro-350px.png
+#          url: assets/teams/team_harp/team_harp_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/team_harp/Team_HARP-img.png
+#          url: assets/teams/team_harp/Team_HARP.pdf
+#  
+#  - teamname: The NWA (Nerds With Attitudes)
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/the_nwa/The_NWA.png # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Aaliyah Lockett, Tyler Mills, Jadrien Huell, Javian Huell, Terrel Brown]
+#      role: Member
+#      affiliation: [Albany State University, Albany State University, Claflin University, Claflin University, FAMU (Florida Agricultural and Mechanical University)]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Computer Science, Computer Engineering, Computer Engineering, Computer Science]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/the_nwa/the_nwa_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Team Titans
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"  
+#        - name: Github Repo
+#          url: https://github.com/NWA-Nerds-With-Attitudes/MS-CC-NWA-Vaccine-Code
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black" 
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/the_nwa/the_nwa_intro-350px.png
+#          url: assets/teams/the_nwa/the_nwa_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/the_nwa/NWA_FianlPresentation-img.png
+#          url: assets/teams/the_nwa/NWA_FianlPresentation.pdf
+#
+#  - teamname: The Tech Titans
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/the_tech_titans/The_Tech_Titans.jpg # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Javaughn George, Amrinder Singh, Ricardo Barnes, Spundun Gusain, Subash Neupane]
+#      role: Member
+#      affiliation: [Alabama State University, Claflin University, Claflin University, Claflin University, Claflin University]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, N/A, Computer Science, Computer, N/A]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Remember The Name - Fort Minor
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=VDvr08sCPOc
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"  
+#        - name: Github Repo
+#          url: https://github.com/RicardoBarnes/project
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black" 
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/the_tech_titans/the_tech_titans_intro-350px.png
+#          url: assets/teams/the_tech_titans/the_tech_titans_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/the_tech_titans/ttFinalPResentation-img.png
+#          url: assets/teams/the_tech_titans/ttFinalPResentation.pdf
+#        

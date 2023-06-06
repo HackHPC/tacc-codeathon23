@@ -1,26 +1,36 @@
 sponsors: # Used for Sponsors
-  - name: "Minority Serving - Cyberinfrastructure Consortium"
-    url: https://www.ms-cc.org
-    logo: /assets/imgs/logos/ms-cc-i2.png
-    grant:
-      - awardagency: National Science Foundation
-        logo: /assets/imgs/logos/NSB-NSF.png 
-        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234326&HistoricalAwards=false
-        description: >
-          The MS-CC is funded by NSF’s Office of Advanced Cyberinfrastructure under awards # 2137123 and 2234326 
+#  - name: "Minority Serving - Cyberinfrastructure Consortium"
+#    url: https://www.ms-cc.org
+#    logo: /assets/imgs/logos/ms-cc-i2.png
+#    grant:
+#      - awardagency: National Science Foundation
+#        logo: /assets/imgs/logos/NSB-NSF.png 
+#        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2234326&HistoricalAwards=false
+#        description: >
+#          The MS-CC is funded by NSF’s Office of Advanced Cyberinfrastructure under awards # 2137123 and 2234326 
       
-  - name: Internet2
-    url: https://internet2.edu
-    logo: /assets/imgs/logos/internet2_logo-blktxt_200px.gif
-  - name: Omnibond Systems
-    url: http://omnibond.com/
-    logo: /assets/imgs/logos/omnibond-badge.png
+  #- name: Internet2
+  #  url: https://internet2.edu
+  #  logo: /assets/imgs/logos/internet2_logo-blktxt_200px.gif
+  #- name: Omnibond Systems
+  #  url: http://omnibond.com/
+  #  logo: /assets/imgs/logos/omnibond-badge.png
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu
+    logo: /assets/imgs/logos/256px-University_of_Texas_at_Austin_logo-sq.png
+
   - name: Texas Advanced Computing Center
     url: https://www.tacc.utexas.edu/
     logo: /assets/imgs/logos/tacc-blacklogo-sq.png
-  - name: Amazon Web Services
-    url: https://aws.amazon.com/
-    logo: /assets/imgs/logos/AWS_logo_RGB.png
+    grant:
+      - awardagency: National Science Foundation
+        logo: /assets/imgs/logos/NSB-NSF.png 
+        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150390&HistoricalAwards=false
+        description: >
+          CI Research 4 Social Change REU is made possible with the support of National Science Foundation Award #2150390
+  #- name: Amazon Web Services
+  #  url: https://aws.amazon.com/
+  #  logo: /assets/imgs/logos/AWS_logo_RGB.png
   - name: HackHPC.org
     url: http://hackhpc.org/
     logo: /assets/imgs/logos/HackHPC-logo.png

@@ -1,22 +1,22 @@
 # Modified by Je'aime Powell 4/11/23  
 # Jekyl Theme:  Affiliates - https://wowthemesnet.github.io/affiliates-jekyll-theme/
 
-title: "Code@MS-CC23"
+title: "TACC 2023 Codeathon"
 description: > 
-  This page will serve as the event site for the Code@MS-CC23 Student Hackathon held May 9th - 10th, 2023 in Atlanta, GA at the 2023 Minority Serving - Cyberinfrastructure Consortium (MS-CC) Annual Meeting.
+  This page will serve as the event site for the TACC 2023 Codeathon held June 5th - 8th, 2023 for the National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change Group.
 #title: "Affiliates"
 email: schack@hackhcp.org
-timezone: EST #UTC
+timezone: CDT #EST #UTC
 
-baseurl: "/codeatms-cc23" # the subpath of your site, e.g. /blog
+baseurl: "/tacc-codeathon23" # the subpath of your site, e.g. /blog
 url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 #baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 
 logo: assets/imgs/logos/MS-CC_Logo-100px.png #'assets/imgs/ms-cccolorssm-text.png'
-favicon: 'assets/imgs/ms-cccolorssm.ico'
-headerimage: 'assets/imgs/CodeatMS-CC-header-trs.png'
+favicon: 'assets/favicon.ico'
+headerimage: 'assets/imgs/TACC_Codeathon2023-Header.png'
 headerbackground: 'assets/imgs/atlskyline-alt.jpg' #This is linked to the hero_img class in theme.scss
 
 #twitter_username: ccloudhack
@@ -27,8 +27,8 @@ headerbackground: 'assets/imgs/atlskyline-alt.jpg' #This is linked to the hero_i
 #youtube_page: https://www.youtube.com/@hackhpc2069
 #registration_link: https://service5.internet2.edu/reg/events/MSCC-0523/registrations
 
-host_event_name: MS-CC Hackathon
-host_event_link: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy63d
+host_event_name: "National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change"
+host_event_link: https://tacc.utexas.edu/education/undergraduates-graduates/reu/
 
 # Social
 social:
@@ -70,27 +70,7 @@ authors:
   
   
 organizers: 
-  
-  - name:           Teni Agbesanwa
-    affiliation:    "Minority Serving - Cyberinfrastructure Consortium (MS-CC)"
-    site:           https://www.ms-cc.org
-    linkedin:       https://www.linkedin.com/in/teni-agbesanwa-436081162/
-    avatar:         assets/imgs/organizers/Teni-Agbesanwa.jpeg
-    bio:            "Teni supports the MS-CC’s program implementation through relationship building, marketing, and communications to increase engagement efforts around advancing cyberinfrastructure across historically Black colleges and universities (HBCUs) and tribal colleges and universities (TCUs). Before this role, Teni had experience working in higher education and k-12 schools."
-    email:          tagbesanwa@internet2.edu
-    #twitter:        https://twitter.com/amy__cannon
-    #github: 
-  
-  - name:           Russell Hofmann
-    affiliation:    "Minority Serving - Cyberinfrastructure Consortium (MS-CC)"
-    site:           https://www.ms-cc.org
-    #linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
-    avatar:         assets/imgs/organizers/russell_h.jpg
-    bio:            "Russell Hofmann is providing dedicated support to the MS-CC’s PoCG program recipients, facilitating CI adoption by faculty and students across these and other campuses, contributing to content within MS-CC’s programming, and contributing to professional development activities for students and faculty. Russell previously worked at the American Indian Higher Education Consortium (AIHEC) as a Research & Education facilitator assisting faculty with their research and education activities by addressing cyberinfrastructure needs. When not working, you can find Russell exploring the great outdoors with his dog Amos, enjoying jogs, visits to farmer’s markets and parks."
-    email:          rhofmann@internet2.edu
-    #twitter:        https://twitter.com/amy__cannon
-    #github: 
-  
+    
   - name:           Charlie Dey
     affiliation:    "Texas Advanced Computing Center"
     site:           https://www.tacc.utexas.edu/about/directory/charlie-dey
@@ -103,15 +83,15 @@ organizers:
 
 
    
-  - name:           Amy Cannon
-    affiliation:    "Omnibond"
-    site:           http://www.omnibond.com/
-    linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
-    avatar:         assets/imgs/organizers/amy-sq.png
-    bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
-    email:          amycannon@omnibond.com
-    twitter:        https://twitter.com/amy__cannon
-    github:         https://hackhpc.github.io/ 
+ # - name:           Amy Cannon
+ #   affiliation:    "Omnibond"
+ #   site:           http://www.omnibond.com/
+ #   linkedin:       https://www.linkedin.com/in/amy-cannon-46230b31/
+ #   avatar:         assets/imgs/organizers/amy-sq.png
+ #   bio:            "Amy Cannon has worked at Omnibond for 10 years, where her Business Development skills allow her to engage with customers and partners, teaching how HPC and Cloud help solve scientific problems. Outside of work she enjoys spending time in nature as well as helping others grow their HPC, HTC, AI, and Cloud Computing knowledge."
+ #   email:          amycannon@omnibond.com
+ #   twitter:        https://twitter.com/amy__cannon
+ #   github:         https://hackhpc.github.io/ 
 
  # - name:           Dr. Linda Hayden
  #   affiliation:    "Science Gateways Community Institute"
@@ -123,15 +103,15 @@ organizers:
  #   twitter:        https://twitter.com/lhaydenecsu
  #   github:         https://hackhpc.github.io/ 
 
-  - name:           Alexander Nolte
-    affiliation:    "University of Tartu"
-    site:           https://alexandernolte.github.io/
-    linkedin:       https://www.linkedin.com/in/alexandernolte/
-    avatar:         assets/imgs/organizers/alex.jpeg
-    bio:            "Alex is an Associate Professor at the University of Tartu and an Adjunct Associate Professor at Carnegie Mellon University working in the are of human computer interaction. He is an avid hackathon enthusiast and has participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work he fiddles with any gadget he can get his hand on, plays video games, cooks and does BBQ."
-    email:          alexander.nolte@ut.ee
-    twitter:        https://twitter.com/alexander_nolte/
-    github:         https://github.com/alexandernolte
+ # - name:           Alexander Nolte
+ #   affiliation:    "University of Tartu"
+ #   site:           https://alexandernolte.github.io/
+ #   linkedin:       https://www.linkedin.com/in/alexandernolte/
+ #   avatar:         assets/imgs/organizers/alex.jpeg
+ #   bio:            "Alex is an Associate Professor at the University of Tartu and an Adjunct Associate Professor at Carnegie Mellon University working in the are of human computer interaction. He is an avid hackathon enthusiast and has participated in, co-organized, served as a mentor and studied countless hackathons over the past years with no end in sight. Outside of work he fiddles with any gadget he can get his hand on, plays video games, cooks and does BBQ."
+ #   email:          alexander.nolte@ut.ee
+ #   twitter:        https://twitter.com/alexander_nolte/
+ #   github:         https://github.com/alexandernolte
 
   - name:           Je'aime Powell
     affiliation:    "Texas Advanced Computing Center"
@@ -143,15 +123,15 @@ organizers:
     twitter:        https://twitter.com/jeaimehp
     github:         https://github.com/jeaimehp 
 
-  - name:           Boyd Wilson
-    affiliation:    "Omnibond"
-    site:           http://www.omnibond.com/
-    linkedin:       https://www.linkedin.com/in/boydwilson/
-    avatar:         assets/imgs/organizers/boyd.png
-    bio:            "Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boyd’s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling."
-    email:          boyd@omnibond.com
-    twitter:        https://twitter.com/boydwilson/
-    github:         https://github.com/omnibond/
+ # - name:           Boyd Wilson
+ #   affiliation:    "Omnibond"
+ #   site:           http://www.omnibond.com/
+ #   linkedin:       https://www.linkedin.com/in/boydwilson/
+ #   avatar:         assets/imgs/organizers/boyd.png
+ #   bio:            "Boyd Wilson, CEO of Omnibond Systems, has extensive experience and leadership in the areas of software development, system administration, storage architectures and business models. Formerly, Boyd served as Software CTO and also Executive Director over computing operations at Clemson University and had research computing as part of his purview. He has participated in various academic grants, papers and workshops in the areas of parallel storage, cloud computing and computational infrastructure. Boyd’s current focus lies in 4 areas: first- computer vision, ai, and real-time traffic analytics with TrafficVision; second- high-performance computing and storage with CloudyCluster and OrangeFS; third- identity and security management; fourth- wake surfing and riding a boosted board around cities while traveling."
+ #   email:          boyd@omnibond.com
+ #   twitter:        https://twitter.com/boydwilson/
+ #   github:         https://github.com/omnibond/
 
 
 
