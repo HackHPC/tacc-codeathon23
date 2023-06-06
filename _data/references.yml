@@ -4,8 +4,8 @@
 references:
 - name: HackHPC Code of Conduct
   url: http://hackhpc.org/codeofconduct
-- name: Minority Serving - Cyberinfrastructure Consortium, MS-CC 
-  url: https://www.ms-cc.org/2023-annual-meeting#h.h3rnrkpqy6
+- name: TACC Analysis Portal (TAP)
+  url: https://tap.tacc.utexas.edu
 - name: Texas Advanced Computing Center
   url: https://www.tacc.utexas.edu
 - name: Amazon Web Services
