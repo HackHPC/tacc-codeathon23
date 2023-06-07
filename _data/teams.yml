@@ -1,7 +1,7 @@
 teams:
 - teamname: CCAT
   members:
-    name:
+    names:
     - Juan  Contreras
     - Zhanequa Davis
     - Sabrina Diaz-Erazo
@@ -13,7 +13,7 @@ teams:
     - Texas Advanced Computing Center
 - teamname: DDES
   members:
-    name:
+    names:
     - Dmitri Germakovski
     - Nimo Mohamud
     - 'Emanuel  Murphy '
@@ -25,7 +25,7 @@ teams:
     - The University of Texas at San Antonio
 - teamname: Scripting Sorcerers
   members:
-    name:
+    names:
     - Andrew Nishitomi
     - Ricardo Perez Jr
     - Lap Pham
@@ -37,7 +37,7 @@ teams:
     - Los Angeles Trade Technical College
 - teamname: Team Avee
   members:
-    name:
+    names:
     - Dairian Balai
     - Melia Soque
     - Darren Bolette
@@ -49,7 +49,7 @@ teams:
     - University of New Haven
 - teamname: The BeeHives
   members:
-    name:
+    names:
     - Emilia Wysapek
     - Avey Etaghene
     - Eileen Liu
