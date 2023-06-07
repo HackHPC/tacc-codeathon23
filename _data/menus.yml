@@ -4,8 +4,8 @@ topmenu:
 - title: Home
   url: ""
 
-#- title: Teams
-#  url: "teams/"
+- title: Teams
+  url: "teams/"
 
 - title: Schedule
   url: "schedule/"
@@ -16,8 +16,6 @@ topmenu:
 #- title: Contact
  # url: "contact/"
 
-#- title: Teams
-#  url: "teams/"
 
 - title: Organizers
   url: "organizers/"
