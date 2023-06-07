@@ -7,7 +7,7 @@ general_schedule:
     location: TACC - ROC 1.468
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
-    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg
     events:
       - name: Introductions and Onboarding
         type: Icebreaker
