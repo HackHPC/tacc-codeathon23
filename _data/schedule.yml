@@ -23,7 +23,7 @@ general_schedule:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
           - tile: Joe Example Code
             #icon:
-            url: https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_2/joe.ipynb
+            url: "https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_2/joe.ipynb"
 
   - date: "June 6, 2023"
     day: Tuesday
@@ -47,7 +47,7 @@ general_schedule:
           #  url: "assets/Slide_Decks/day_1/MS-CC Groups.pdf"
           - title: Team Introduction Slides
             #icon:
-            url: https://docs.google.com/presentation/d/1L4s8Iksy6Q8Egxw5EomP4GBpDgAooq0jOJlUgch9yfs/edit?usp=sharing
+            url: "https://docs.google.com/presentation/d/1L4s8Iksy6Q8Egxw5EomP4GBpDgAooq0jOJlUgch9yfs/edit?usp=sharing"
       - name: Jupyter Notebooks
         type: Hands-On
         links:
