@@ -97,6 +97,10 @@ general_schedule:
             url: "https://scholar.google.com"
       - name: Person/Population/Community Objects
       - name: Adding Mitigation Parameters
+      - name: Data Camp Python Tutorials
+        links:
+          - title: "Data Camp Link (Must use a Gmail or Google Linked account)"
+            url: "https://www.datacamp.com/groups/shared_links/447478a25cc6602eee84d0ee4b9eb55d49f4a223626c9ebe0822a7da7c3f2bc5"
 
   - date: "June 8, 2023"
     day: Thursday
