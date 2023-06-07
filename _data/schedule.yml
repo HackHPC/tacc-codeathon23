@@ -87,15 +87,14 @@ general_schedule:
           - title: Slides
             #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
-          - tile: SIR Example Code
+          - title: SIR Example Code
             #icon:
             url: https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_3/SIR-Model-2022.ipynb
-
       - name: "Gathering Research Data"
         links:
           - title: Google Scholar
-            #icon
-            url: "https://scholar.google.com"
+          #icon
+          url: "https://scholar.google.com"
       - name: Person/Population/Community Objects
       - name: Adding Mitigation Parameters
 
