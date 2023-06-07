@@ -96,6 +96,10 @@ general_schedule:
             #icon
             url: "https://scholar.google.com"
       - name: Person/Population/Community Objects
+        links:
+          - title: Person Object Example Code
+            #icon:
+            url: https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_3/SIR_objects-start.ipynb
       - name: Adding Mitigation Parameters
       - name: Data Camp Python Tutorials
         links:
