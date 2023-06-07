@@ -21,6 +21,9 @@ general_schedule:
           - title: Slides
             #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
+          - tile: Joe Example Code
+            #icon:
+            url: https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_2/joe.ipynb
 
   - date: "June 6, 2023"
     day: Tuesday
@@ -76,6 +79,7 @@ general_schedule:
     location: TACC - ACB 1.468
     events:
       - name: Breakfast
+      - name: Python Overview
       #time
       - name: "SIR Model"
         type: Discussion
@@ -83,6 +87,10 @@ general_schedule:
           - title: Slides
             #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
+          - tile: SIR Example Code
+            #icon:
+            url: https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_3/SIR-Model-2022.ipynb
+
       - name: "Gathering Research Data"
         links:
           - title: Google Scholar
