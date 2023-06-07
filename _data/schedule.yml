@@ -21,7 +21,7 @@ general_schedule:
           - title: Slides
             #icon:
             url: "assets/Slide_Decks/day_1/REU2023-FullDeck.pdf"
-          - tile: Joe Example Code
+          - title: Joe Example Code
             #icon:
             url: "https://github.com/HackHPC/tacc-codeathon23/blob/main/assets/Slide_Decks/day_2/joe.ipynb"
 
