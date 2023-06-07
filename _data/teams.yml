@@ -1,0 +1,61 @@
+teams:
+- teamname: CCAT
+  members:
+    name:
+    - Juan  Contreras
+    - Zhanequa Davis
+    - Sabrina Diaz-Erazo
+    - Rachel Foong
+    affiliation:
+    - Ball State University
+    - Chaminade University of Honolulu
+    - Chaminade University of Honolulu
+    - Texas Advanced Computing Center
+- teamname: DDES
+  members:
+    name:
+    - Dmitri Germakovski
+    - Nimo Mohamud
+    - 'Emanuel  Murphy '
+    - Kole Nagai
+    affiliation:
+    - Fort Valley State University
+    - Purdue University
+    - San Francisco State University
+    - The University of Texas at San Antonio
+- teamname: Scripting Sorcerers
+  members:
+    name:
+    - Andrew Nishitomi
+    - Ricardo Perez Jr
+    - Lap Pham
+    - Connor Vessely
+    affiliation:
+    - California State University Monterey Bay
+    - City College of San Francisco
+    - Le Moyne College
+    - Los Angeles Trade Technical College
+- teamname: Team Avee
+  members:
+    name:
+    - Dairian Balai
+    - Melia Soque
+    - Darren Bolette
+    - Vernonika Castaneda
+    affiliation:
+    - Houston Community College
+    - Texas A&M Corpus Christi
+    - The University of Texas at Austin
+    - University of New Haven
+- teamname: The BeeHives
+  members:
+    name:
+    - Emilia Wysapek
+    - Avey Etaghene
+    - Eileen Liu
+    - Emma Bukowski
+    affiliation:
+    - College of the Canyons
+    - Richland College
+    - University of California, Berkeley
+    - Wellesley College
