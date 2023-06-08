@@ -9,6 +9,29 @@
 <title>{{ page.title }} | {{site.title}}</title>
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.headerimage }}" >
 
+<meta name="description" content="{{ site.description }}">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ site.title }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.headerimage }}">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="{{ site.url }}">
+<meta property="twitter:url" content="{{ site.url }}{{ site.baseurl }}">
+<meta name="twitter:title" content="{{ site.title }}">
+<meta name="twitter:description" content="{{ site.description }}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.headerimage }}">
+
+
+
+
+
+
+
 {% seo %}
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
