@@ -1,5 +1,375 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/tacc-codeathon23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tacc-codeathon23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-06-08T01:00:36+00:00</updated><id>http://localhost:4000/tacc-codeathon23/feed.xml</id><title type="html">TACC 2023 Codeathon</title><subtitle>This page will serve as the event site for the TACC 2023 Codeathon held June 5th - 8th, 2023 for the National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change Group.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">Schedule</title><link href="http://localhost:4000/tacc-codeathon23/schedule/" rel="alternate" type="text/html" title="Schedule" /><published>2023-06-05T00:00:00+00:00</published><updated>2023-06-05T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/schedule</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/schedule/"><![CDATA[<p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/tacc-codeathon23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tacc-codeathon23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-06-08T01:49:15+00:00</updated><id>http://localhost:4000/tacc-codeathon23/feed.xml</id><title type="html">TACC 2023 Codeathon</title><subtitle>This page will serve as the event site for the TACC 2023 Codeathon held June 5th - 8th, 2023 for the National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change Group.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">CCAT</title><link href="http://localhost:4000/tacc-codeathon23/ccat/" rel="alternate" type="text/html" title="CCAT" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/ccat</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/ccat/"><![CDATA[<div>
+
+    
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/tacc-codeathon23/assets/teams/ccat/group.jpg" width="700px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/tacc-codeathon23/assets/teams/ccat/ccat-team_intro.pdf"><img src="/tacc-codeathon23/assets/teams/ccat/ccat-team_intro.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
+    
+    <h2> Team Members: </h2>
+   
+    <ul>
+    
+        
+            <li><strong>Juan  Contreras</strong> - <em></em>  <br />Ball State University <br />
+            </li>
+        
+            <li><strong>Zhanequa Davis</strong> - <em></em>  <br />Chaminade University of Honolulu <br />
+            </li>
+        
+            <li><strong>Sabrina Diaz-Erazo</strong> - <em></em>  <br />Chaminade University of Honolulu <br />
+            </li>
+        
+            <li><strong>Rachel Foong</strong> - <em></em>  <br />Texas Advanced Computing Center <br />
+            </li>
+        
+             
+       </ul>  
+    <h2> Links: </h2>
+     <ul>
+    
+        
+        <li>
+            <a href="/tacc-codeathon23/assets/teams/ccat/ccat-team_intro.pdf"><i class="far fa-file-pdf" style="color: black"></i> Team Introduction </a> 
+            
+         </li>   
+        
+        <li>
+            <a href="https://www.youtube.com/watch?v=D8zlUUrFK-M&amp;t"> Theme Song: Jurassic Park Theme Song </a>
+         </li>   
+        
+             
+       </ul>  
+  </td>
+</tr>
+<tr> </tr> 
+
+
+    
+
+    
+
+    
+
+    
+
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/teams/ccat/group.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/teams/ccat/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">DDES</title><link href="http://localhost:4000/tacc-codeathon23/ddes/" rel="alternate" type="text/html" title="DDES" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/ddes</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/ddes/"><![CDATA[<div>
+
+    
+
+    
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/tacc-codeathon23/assets/teams/ddes/group.jpg" width="700px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/tacc-codeathon23/assets/teams/ddes/ddes-team_intro.pdf"><img src="/tacc-codeathon23/assets/teams/ddes/ddes-team_intro.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
+    
+    <h2> Team Members: </h2>
+   
+    <ul>
+    
+        
+            <li><strong>Dmitri Germakovski</strong> - <em></em>  <br />Fort Valley State University <br />
+            </li>
+        
+            <li><strong>Nimo Mohamud</strong> - <em></em>  <br />Purdue University <br />
+            </li>
+        
+            <li><strong>Emanuel  Murphy </strong> - <em></em>  <br />San Francisco State University <br />
+            </li>
+        
+            <li><strong>Kole Nagai</strong> - <em></em>  <br />The University of Texas at San Antonio <br />
+            </li>
+        
+             
+       </ul>  
+    <h2> Links: </h2>
+     <ul>
+    
+        
+        <li>
+            <a href="/tacc-codeathon23/assets/teams/ddes/ddes-team_intro.pdf"><i class="far fa-file-pdf" style="color: black"></i> Team Introduction </a> 
+            
+         </li>   
+        
+        <li>
+            <a href="https://www.youtube.com/watch?v=xradzFzJq4E"> Theme Song: Shake It Off (Instrumental) - Mariah Carey </a>
+         </li>   
+        
+             
+       </ul>  
+  </td>
+</tr>
+<tr> </tr> 
+
+
+    
+
+    
+
+    
+
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/teams/ddes/group.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/teams/ddes/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Scripting Sorcerers</title><link href="http://localhost:4000/tacc-codeathon23/scripting-sorcerers/" rel="alternate" type="text/html" title="Scripting Sorcerers" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/scripting-sorcerers</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/scripting-sorcerers/"><![CDATA[<div>
+
+    
+
+    
+
+    
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/tacc-codeathon23/assets/teams/scripting_sorcerers/group.jpg#%20Frontpage%20image" width="700px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/tacc-codeathon23/assets/teams/scripting_sorcerers/ss-team_intro.pdf"><img src="/tacc-codeathon23/assets/teams/scripting_sorcerers/ss-team_intro.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
+    
+    <h2> Team Members: </h2>
+   
+    <ul>
+    
+        
+            <li><strong>Andrew Nishitomi</strong> - <em></em>  <br />California State University Monterey Bay <br />
+            </li>
+        
+            <li><strong>Ricardo Perez Jr</strong> - <em></em>  <br />City College of San Francisco <br />
+            </li>
+        
+            <li><strong>Lap Pham</strong> - <em></em>  <br />Le Moyne College <br />
+            </li>
+        
+            <li><strong>Connor Vessely</strong> - <em></em>  <br />Los Angeles Trade Technical College <br />
+            </li>
+        
+             
+       </ul>  
+    <h2> Links: </h2>
+     <ul>
+    
+        
+        <li>
+            <a href="/tacc-codeathon23/assets/teams/scripting_sorcerers/ss-team_intro.pdf"><i class="far fa-file-pdf" style="color: black"></i> Team Introduction </a> 
+            
+         </li>   
+        
+        <li>
+            <a href="https://www.youtube.com/watch?v=kUsFWO08CO0"> Theme Song: DANGER ZONE - TOPGUN Movie Soundtrack </a>
+         </li>   
+        
+             
+       </ul>  
+  </td>
+</tr>
+<tr> </tr> 
+
+
+    
+
+    
+
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/teams/scripting_sorcerers/group.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/teams/scripting_sorcerers/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Team Avee</title><link href="http://localhost:4000/tacc-codeathon23/team_avee/" rel="alternate" type="text/html" title="Team Avee" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/team_avee</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/team_avee/"><![CDATA[<div>
+
+    
+
+    
+
+    
+
+    
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/tacc-codeathon23/assets/teams/team_avee/group.jpg" width="700px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/tacc-codeathon23/assets/teams/team_avee/avee-team_intro.pdf"><img src="/tacc-codeathon23/assets/teams/team_avee/avee-team_intro.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
+    
+    <h2> Team Members: </h2>
+   
+    <ul>
+    
+        
+            <li><strong>Dairian Balai</strong> - <em></em>  <br />Houston Community College <br />
+            </li>
+        
+            <li><strong>Melia Soque</strong> - <em></em>  <br />Texas A&amp;M Corpus Christi <br />
+            </li>
+        
+            <li><strong>Darren Bolette</strong> - <em></em>  <br />The University of Texas at Austin <br />
+            </li>
+        
+            <li><strong>Vernonika Castaneda</strong> - <em></em>  <br />University of New Haven <br />
+            </li>
+        
+             
+       </ul>  
+    <h2> Links: </h2>
+     <ul>
+    
+        
+        <li>
+            <a href="/tacc-codeathon23/assets/teams/team_avee/avee-team_intro.pdf"><i class="far fa-file-pdf" style="color: black"></i> Team Introduction </a> 
+            
+         </li>   
+        
+        <li>
+            <a href="https://www.youtube.com/watch?v=m-MZ9XDK1Us"> Theme Song: SpongeBob Music: Twelfth Street Rag </a>
+         </li>   
+        
+             
+       </ul>  
+  </td>
+</tr>
+<tr> </tr> 
+
+
+    
+
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/teams/team_avee/group.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/teams/team_avee/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The BeeHives</title><link href="http://localhost:4000/tacc-codeathon23/the_beehives/" rel="alternate" type="text/html" title="The BeeHives" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/the_beehives</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/the_beehives/"><![CDATA[<div>
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+     <table>
+    
+  
+    <tr style="border-bottom: 2px solid darkgrey;">
+      <td style="vertical-align: top;">
+        <img src="/tacc-codeathon23/assets/teams/the_beehives/group.jpg" width="700px" />
+
+        <br />
+        
+        
+        Team Introduction
+        
+        <a href="/tacc-codeathon23/assets/teams/the_beehives/behives-team_intro.pdf"><img src="/tacc-codeathon23/assets/teams/the_beehives/behives-team_intro.png" width="300px" /></a>
+        
+        <br />
+        
+
+
+      </td>
+     <td> 
+    
+    <h2> Team Members: </h2>
+   
+    <ul>
+    
+        
+            <li><strong>Emilia Wysapek</strong> - <em></em>  <br />College of the Canyons <br />
+            </li>
+        
+            <li><strong>Avey Etaghene</strong> - <em></em>  <br />Richland College <br />
+            </li>
+        
+            <li><strong>Eileen Liu</strong> - <em></em>  <br />University of California, Berkeley <br />
+            </li>
+        
+            <li><strong>Emma Bukowski</strong> - <em></em>  <br />Wellesley College <br />
+            </li>
+        
+             
+       </ul>  
+    <h2> Links: </h2>
+     <ul>
+    
+        
+        <li>
+            <a href="/tacc-codeathon23/assets/teams/the_beehives/behives-team_intro.pdf"><i class="far fa-file-pdf" style="color: black"></i> Team Introduction </a> 
+            
+         </li>   
+        
+        <li>
+            <a href="https://www.youtube.com/watch?v=zDRcHKN2aa8&amp;t=4s"> Theme Song: Irreplaceable - Beyoncé </a>
+         </li>   
+        
+             
+       </ul>  
+  </td>
+</tr>
+<tr> </tr> 
+
+
+
+</table>
+</div>]]></content><author><name>HackHPC</name></author><category term="Team" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/teams/the_beehives/group.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/teams/the_beehives/group.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Schedule</title><link href="http://localhost:4000/tacc-codeathon23/schedule/" rel="alternate" type="text/html" title="Schedule" /><published>2023-06-05T00:00:00+00:00</published><updated>2023-06-05T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/schedule</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/schedule/"><![CDATA[<p>
   <strong style="font-size:1.5vw;">Monday, June 5, 2023 
      2pm  
     - 4pm 
