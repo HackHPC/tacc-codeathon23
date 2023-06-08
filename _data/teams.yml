@@ -1,7 +1,7 @@
 ## Example Team
 #  - teamname: Team HARP
-#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
 #    #url:  # Full URL
 #    image: assets/teams/team_harp/Team_HARP.jpg # assets/project/
 #    #date: 03/2021 &ndash; Project Teams
@@ -33,15 +33,15 @@
 #          icon: "fab fa-youtube"
 #          iconcolor: "#ff0c05"
 #        - name: Github Repo
-#          url: https://github.com/Aayush000/MS-CC 
+#          url: https://github.com/Aayush000/MS-CC
 #          icon: "fab fa-github"
 #          color: black
-#          tag: github 
+#          tag: github
 #        - name: Final Presentation
 #          url: assets/teams/team_harp/Team_HARP.pdf
 #          icon: "far fa-file-pdf"
 #          iconcolor: "black"
-#        
+#
 #    images:
 #        - name: Team Introduction
 #          imagelink: assets/teams/team_harp/team_harp_intro-350px.png
@@ -50,198 +50,192 @@
 #          imagelink: assets/teams/team_harp/Team_HARP-img.png
 #          url: assets/teams/team_harp/Team_HARP.pdf
 
-
-
 teams:
-- teamname: CCAT
-  members:
-    names:
-    - Juan  Contreras
-    - Zhanequa Davis
-    - Sabrina Diaz-Erazo
-    - Rachel Foong
-    affiliation:
-    - Ball State University
-    - Chaminade University of Honolulu
-    - Chaminade University of Honolulu
-    - Texas Advanced Computing Center
-  image: assets/teams/ccat/group.jpg # Frontpage image
-  links:
-    - name: Team Introduction
-      url: assets/teams/ccat/ccat-team_intro.pdf
-      icon: "far fa-file-pdf"
-      iconcolor: "black"
-    - name: "Theme Song: Jurassic Park Theme Song"
-      tag: themesong
-      url: https://www.youtube.com/watch?v=D8zlUUrFK-M&t
-      icon: "fab fa-youtube"
-      iconcolor: "#ff0c05"
-#        - name: Github Repo
-#          url: 
-#          icon: "fab fa-github"
-#          color: black
-#          tag: github 
-#        - name: Final Presentation
-#          url: 
-#          icon: "far fa-file-pdf"
-#          iconcolor: "black"        
-  images:
-    - name: Team Introduction
-      imagelink: assets/teams/ccat/ccat-team_intro.png
-      url: assets/teams/ccat/ccat-team_intro.pdf
+  - teamname: CCAT
+    members:
+      names:
+        - Kole Nagai
+        - Andrew Nishitomi
+        - Connor Vessely
+        - Emma Bukowski
+      affiliation:
+        - Chaminade University of Honolulu
+        - Chaminade University of Honolulu
+        - Ball State University
+        - Texas Advanced Computing Center
+    image: assets/teams/ccat/group.jpg # Frontpage image
+    links:
+      - name: Team Introduction
+        url: assets/teams/ccat/ccat-team_intro.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+      - name: "Theme Song: Jurassic Park Theme Song"
+        tag: themesong
+        url: https://www.youtube.com/watch?v=D8zlUUrFK-M&t
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+    #        - name: Github Repo
+    #          url:
+    #          icon: "fab fa-github"
+    #          color: black
+    #          tag: github
+    #        - name: Final Presentation
+    #          url:
+    #          icon: "far fa-file-pdf"
+    #          iconcolor: "black"
+    images:
+      - name: Team Introduction
+        imagelink: assets/teams/ccat/ccat-team_intro.png
+        url: assets/teams/ccat/ccat-team_intro.pdf
 
+  - teamname: DDES
+    members:
+      names:
+        - Sabrina Diaz-Erazo
+        - "Emanuel  Murphy "
+        - Dairian Balai
+        - Darren Bolette
+      affiliation:
+        - San Francisco State University
+        - Fort Valley State University
+        - Purdue University
+        - The University of Texas at San Antonio
+    image: assets/teams/ddes/group.jpg # Frontpage image
+    links:
+      - name: Team Introduction
+        url: assets/teams/ddes/ddes-team_intro.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+      - name: "Theme Song: Shake It Off (Instrumental) - Mariah Carey"
+        tag: themesong
+        url: https://www.youtube.com/watch?v=xradzFzJq4E
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+    #        - name: Github Repo
+    #          url:
+    #          icon: "fab fa-github"
+    #          color: black
+    #          tag: github
+    #        - name: Final Presentation
+    #          url:
+    #          icon: "far fa-file-pdf"
+    #          iconcolor: "black"
+    #
+    images:
+      - name: Team Introduction
+        imagelink: assets/teams/ddes/ddes-team_intro.png
+        url: assets/teams/ddes/ddes-team_intro.pdf
 
-- teamname: DDES
-  members:
-    names:
-    - Dmitri Germakovski
-    - Nimo Mohamud
-    - 'Emanuel  Murphy '
-    - Kole Nagai
-    affiliation:
-    - Fort Valley State University
-    - Purdue University
-    - San Francisco State University
-    - The University of Texas at San Antonio
-  image: assets/teams/ddes/group.jpg # Frontpage image
-  links:
-    - name: Team Introduction
-      url: assets/teams/ddes/ddes-team_intro.pdf
-      icon: "far fa-file-pdf"
-      iconcolor: "black"
-    - name: "Theme Song: Shake It Off (Instrumental) - Mariah Carey"
-      tag: themesong
-      url: https://www.youtube.com/watch?v=xradzFzJq4E 
-      icon: "fab fa-youtube"
-      iconcolor: "#ff0c05"
-#        - name: Github Repo
-#          url: 
-#          icon: "fab fa-github"
-#          color: black
-#          tag: github 
-#        - name: Final Presentation
-#          url: 
-#          icon: "far fa-file-pdf"
-#          iconcolor: "black"
-#        
-  images:
-    - name: Team Introduction
-      imagelink: assets/teams/ddes/ddes-team_intro.png
-      url: assets/teams/ddes/ddes-team_intro.pdf
+  - teamname: Scripting Sorcerers
+    members:
+      names:
+        - Juan  Contreras
+        - Dmitri Germakovski
+        - Ricardo Perez Jr
+        - Lap Pham
+      affiliation:
+        - Los Angeles Trade Technical College
+        - Le Moyne College
+        - California State University Monterey Bay
+        - City College of San Francisco
+    image: assets/teams/scripting_sorcerers/group.jpg# Frontpage image
+    links:
+      - name: Team Introduction
+        url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+      - name: "Theme Song: DANGER ZONE - TOPGUN Movie Soundtrack"
+        tag: themesong
+        url: https://www.youtube.com/watch?v=kUsFWO08CO0
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+    #        - name: Github Repo
+    #          url:
+    #          icon: "fab fa-github"
+    #          color: black
+    #          tag: github
+    #        - name: Final Presentation
+    #          url:
+    #          icon: "far fa-file-pdf"
+    #          iconcolor: "black"
+    #
+    images:
+      - name: Team Introduction
+        imagelink: assets/teams/scripting_sorcerers/ss-team_intro.png
+        url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
 
-- teamname: Scripting Sorcerers
-  members:
-    names:
-    - Andrew Nishitomi
-    - Ricardo Perez Jr
-    - Lap Pham
-    - Connor Vessely
-    affiliation:
-    - California State University Monterey Bay
-    - City College of San Francisco
-    - Le Moyne College
-    - Los Angeles Trade Technical College
-  image: assets/teams/scripting_sorcerers/group.jpg# Frontpage image
-  links:
-    - name: Team Introduction
-      url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
-      icon: "far fa-file-pdf"
-      iconcolor: "black"
-    - name: "Theme Song: DANGER ZONE - TOPGUN Movie Soundtrack"
-      tag: themesong
-      url: https://www.youtube.com/watch?v=kUsFWO08CO0
-      icon: "fab fa-youtube"
-      iconcolor: "#ff0c05"
-#        - name: Github Repo
-#          url: 
-#          icon: "fab fa-github"
-#          color: black
-#          tag: github 
-#        - name: Final Presentation
-#          url: 
-#          icon: "far fa-file-pdf"
-#          iconcolor: "black"
-#        
-  images:
-    - name: Team Introduction
-      imagelink: assets/teams/scripting_sorcerers/ss-team_intro.png
-      url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
+  - teamname: Team Avee
+    members:
+      names:
+        - Vernonika Castaneda
+        - Emilia Wysapek
+        - Avey Etaghene
+        - Eileen Liu
+      affiliation:
+        - Texas A&M Corpus Christi
+        - University of New Haven
+        - Houston Community College
+        - The University of Texas at Austin
+    image: assets/teams/team_avee/group.jpg # Frontpage image
+    links:
+      - name: Team Introduction
+        url: assets/teams/team_avee/avee-team_intro.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+      - name: "Theme Song: SpongeBob Music: Twelfth Street Rag"
+        tag: themesong
+        url: https://www.youtube.com/watch?v=m-MZ9XDK1Us
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+    #        - name: Github Repo
+    #          url:
+    #          icon: "fab fa-github"
+    #          color: black
+    #          tag: github
+    #        - name: Final Presentation
+    #          url:
+    #          icon: "far fa-file-pdf"
+    #          iconcolor: "black"
+    #
+    images:
+      - name: Team Introduction
+        imagelink: assets/teams/team_avee/avee-team_intro.png
+        url: assets/teams/team_avee/avee-team_intro.pdf
 
-
-
-- teamname: Team Avee
-  members:
-    names:
-    - Dairian Balai
-    - Melia Soque
-    - Darren Bolette
-    - Vernonika Castaneda
-    affiliation:
-    - Houston Community College
-    - Texas A&M Corpus Christi
-    - The University of Texas at Austin
-    - University of New Haven
-  image: assets/teams/team_avee/group.jpg # Frontpage image
-  links:
-    - name: Team Introduction
-      url: assets/teams/team_avee/avee-team_intro.pdf
-      icon: "far fa-file-pdf"
-      iconcolor: "black"
-    - name: "Theme Song: SpongeBob Music: Twelfth Street Rag"
-      tag: themesong
-      url: https://www.youtube.com/watch?v=m-MZ9XDK1Us
-      icon: "fab fa-youtube"
-      iconcolor: "#ff0c05"
-#        - name: Github Repo
-#          url: 
-#          icon: "fab fa-github"
-#          color: black
-#          tag: github 
-#        - name: Final Presentation
-#          url: 
-#          icon: "far fa-file-pdf"
-#          iconcolor: "black"
-#        
-  images:
-    - name: Team Introduction
-      imagelink: assets/teams/team_avee/avee-team_intro.png
-      url: assets/teams/team_avee/avee-team_intro.pdf
-
-
-- teamname: The BeeHives
-  members:
-    names:
-    - Emilia Wysapek
-    - Avey Etaghene
-    - Eileen Liu
-    - Emma Bukowski
-    affiliation:
-    - College of the Canyons
-    - Richland College
-    - University of California, Berkeley
-    - Wellesley College
-  image: assets/teams/the_beehives/group.jpg # Frontpage image
-  links:
-    - name: Team Introduction
-      url: assets/teams/the_beehives/behives-team_intro.pdf
-      icon: "far fa-file-pdf"
-      iconcolor: "black"
-    - name: "Theme Song: Irreplaceable - Beyoncé"
-      tag: themesong
-      url: https://www.youtube.com/watch?v=zDRcHKN2aa8&t=4s
-      icon: "fab fa-youtube"
-      iconcolor: "#ff0c05"
-#        - name: Github Repo
-#          url: 
-#          icon: "fab fa-github"
-#          color: black
-#          tag: github 
-#        - name: Final Presentation
-#          url: 
-#          icon: "far fa-file-pdf"
-#          iconcolor: "black"
-#        
-  images:
-    - name: Team Introduction
-      imagelink: assets/teams/the_beehives/behives-team_intro.png
-      url: assets/teams/the_beehives/behives-team_intro.pdf
+  - teamname: The BeeHives
+    members:
+      names:
+        - Zhanequa Davis
+        - Rachel Foong
+        - Nimo Mohamud
+        - Melia Soque
+      affiliation:
+        - College of the Canyons
+        - Richland College
+        - Wellesley College
+        - University of California, Berkeley
+    image: assets/teams/the_beehives/group.jpg # Frontpage image
+    links:
+      - name: Team Introduction
+        url: assets/teams/the_beehives/behives-team_intro.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+      - name: "Theme Song: Irreplaceable - Beyoncé"
+        tag: themesong
+        url: https://www.youtube.com/watch?v=zDRcHKN2aa8&t=4s
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+    #        - name: Github Repo
+    #          url:
+    #          icon: "fab fa-github"
+    #          color: black
+    #          tag: github
+    #        - name: Final Presentation
+    #          url:
+    #          icon: "far fa-file-pdf"
+    #          iconcolor: "black"
+    #
+    images:
+      - name: Team Introduction
+        imagelink: assets/teams/the_beehives/behives-team_intro.png
+        url: assets/teams/the_beehives/behives-team_intro.pdf
