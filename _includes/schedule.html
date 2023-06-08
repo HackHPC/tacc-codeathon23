@@ -3,7 +3,7 @@
 
   {% for day in site.data.schedule.general_schedule %}
   <p>
-  <strong style="font-size:1.5vw;">{{day.day}}, {{ day.date}} 
+  <strong style="font-size:1.5vw; background: black; color: white; padding: 4px">{{day.day}}, {{ day.date}} 
     {% if day.timebegin %} {{ day.timebegin }} {% endif %} 
     {% if day.timeend %}- {{ day.timeend }} {% endif %}
     {% if day.timezone %} {{ day.timezone }} {% endif %} 
@@ -57,6 +57,8 @@
         </li>
       {% endfor %}
 </ul>
+<br>
+<hr style="border-top: 2px solid black;">
   {% endfor %}
 
 

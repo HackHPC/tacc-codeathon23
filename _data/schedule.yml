@@ -30,7 +30,7 @@ general_schedule:
     timebegin: 9am
     timeend: 2pm
     timezone: CT
-    location: TACC - ACB 1.468
+    location: TACC - ROC 1.468
     events:
       - name: Breakfast
       - name: Computational Thinking
@@ -79,7 +79,7 @@ general_schedule:
     timebegin: 9:00am
     timeend: 2:00pm
     timezone: CT
-    location: TACC - ACB 1.468
+    location: TACC - ROC 1.468
     events:
       - name: Breakfast
       - name: Python Overview
@@ -117,6 +117,12 @@ general_schedule:
     location: TACC - ROC 1.468
     events:
       - name: Breakfast
+      - name: Review - Lists, Functions, Objects
+      - name: Population, Community Objects
+      - name: Adding Mitigations
+      - name: MatPlotLib
+      - name: Research - Hypothesis
+      - name: Final Instructions
       - name: Hackathon Starts
         type: Team Work
       - name: Team Presentations
