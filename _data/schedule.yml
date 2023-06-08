@@ -49,8 +49,6 @@ general_schedule:
             #icon:
             url: "https://docs.google.com/presentation/d/1L4s8Iksy6Q8Egxw5EomP4GBpDgAooq0jOJlUgch9yfs/edit?usp=sharing"
 
-
-
       - name: Jupyter Notebooks
         type: Hands-On
         links:
@@ -129,7 +127,7 @@ general_schedule:
         description: >
           Deliverables: <br>
             &nbsp; 1) Github Repo<br>
-            &nbsp; 2) Team Poster with:<br> 
+            &nbsp; 2) Team Presentation with:<br> 
             &nbsp;&nbsp;  * Team Name<br>
             &nbsp;&nbsp;  * Team Members<br>
             &nbsp;&nbsp;  * Team Picture<br>
@@ -142,4 +140,3 @@ general_schedule:
             url: https://docs.google.com/presentation/d/1q_R1yG-PIA1oAmA2s7nYxCnvb3iR_b_0DlYbiyOZR2k/edit?usp=sharing
       - name: Closing
         time: 4:00pm
-      
