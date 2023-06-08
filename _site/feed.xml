@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/tacc-codeathon23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tacc-codeathon23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-06-08T01:49:15+00:00</updated><id>http://localhost:4000/tacc-codeathon23/feed.xml</id><title type="html">TACC 2023 Codeathon</title><subtitle>This page will serve as the event site for the TACC 2023 Codeathon held June 5th - 8th, 2023 for the National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change Group.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/tacc-codeathon23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/tacc-codeathon23/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-06-08T04:05:29+00:00</updated><id>http://localhost:4000/tacc-codeathon23/feed.xml</id><title type="html">TACC 2023 Codeathon</title><subtitle>This page will serve as the event site for the TACC 2023 Codeathon held June 5th - 8th, 2023 for the National Science Foundation Research Experience for Undergraduates (REU) Site: Cyberinfrastructure (CI) Research for Social Change Group.
 </subtitle><author><name>HackHPC</name></author><entry><title type="html">CCAT</title><link href="http://localhost:4000/tacc-codeathon23/ccat/" rel="alternate" type="text/html" title="CCAT" /><published>2023-06-06T00:00:00+00:00</published><updated>2023-06-06T00:00:00+00:00</updated><id>http://localhost:4000/tacc-codeathon23/ccat</id><content type="html" xml:base="http://localhost:4000/tacc-codeathon23/ccat/"><![CDATA[<div>
 
     
@@ -755,7 +755,7 @@
              <p>
                Deliverables: <br />
   &nbsp; 1) Github Repo<br />
-  &nbsp; 2) Team Poster with:<br />
+  &nbsp; 2) Team Poster with:<br /> 
   &nbsp;&nbsp;  * Team Name<br />
   &nbsp;&nbsp;  * Team Members<br />
   &nbsp;&nbsp;  * Team Picture<br />
@@ -765,6 +765,15 @@
 
              </p>
           
+          
+              <ul>
+            
+                  <li>
+                    [ <a href="https://docs.google.com/presentation/d/1q_R1yG-PIA1oAmA2s7nYxCnvb3iR_b_0DlYbiyOZR2k/edit?usp=sharing"> Final Presentations Google Slide Deck </a> ]
+                  </li>
+
+            
+              </ul>
           
 
 
@@ -781,4 +790,4 @@
 
         </li>
       
-</ul>]]></content><author><name>HackHPC</name></author><category term="Schedule" /><category term="Session" /><summary type="html"><![CDATA[Monday, June 5, 2023 2pm - 4pm CT TACC - ROC 1.468 Introductions and Onboarding Type: Icebreaker [ TACC Site ] Computational Thinking Type: Presentation [ Slides ] [ Joe Example Code ] Tuesday, June 6, 2023 9am - 2pm CT TACC - ACB 1.468 Breakfast Computational Thinking Type: Presentation [ Slides ] Team Creation and Introductions Type: Team Work [ Teams Slide Deck ] [ Team Introduction Google Slides ] Jupyter Notebooks Type: Hands-On [ DesignSafe-CI ] [ TACC Analysis Portal (TAP) ] Hi I'm Joe Type: Code [ Slides ] [ Sample Code ] Poor Jane knows Joe Type: Code [ Slides ] Wednesday, June 7, 2023 9:00am - 2:00pm CT TACC - ACB 1.468 Breakfast Python Overview SIR Model Type: Discussion [ Slides ] [ SIR Example Code ] Gathering Research Data [ Google Scholar ] Person/Population/Community Objects [ Person Object Example Code ] Adding Mitigation Parameters Data Camp Python Tutorials [ Data Camp Link (Must use a Gmail or Google Linked account) ] Thursday, June 8, 2023 9:00am - 4:00pm CT TACC - ROC 1.468 Breakfast Hackathon Starts Type: Team Work 3:00pm - Team Presentations Deliverables: &nbsp; 1) Github Repo &nbsp; 2) Team Poster with: &nbsp;&nbsp; * Team Name &nbsp;&nbsp; * Team Members &nbsp;&nbsp; * Team Picture &nbsp;&nbsp; * Team Goal &nbsp;&nbsp; * Mitigation Reference &nbsp;&nbsp; * Results (at least one graph) 4:00pm - Closing]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</ul>]]></content><author><name>HackHPC</name></author><category term="Schedule" /><category term="Session" /><summary type="html"><![CDATA[Monday, June 5, 2023 2pm - 4pm CT TACC - ROC 1.468 Introductions and Onboarding Type: Icebreaker [ TACC Site ] Computational Thinking Type: Presentation [ Slides ] [ Joe Example Code ] Tuesday, June 6, 2023 9am - 2pm CT TACC - ACB 1.468 Breakfast Computational Thinking Type: Presentation [ Slides ] Team Creation and Introductions Type: Team Work [ Teams Slide Deck ] [ Team Introduction Google Slides ] Jupyter Notebooks Type: Hands-On [ DesignSafe-CI ] [ TACC Analysis Portal (TAP) ] Hi I'm Joe Type: Code [ Slides ] [ Sample Code ] Poor Jane knows Joe Type: Code [ Slides ] Wednesday, June 7, 2023 9:00am - 2:00pm CT TACC - ACB 1.468 Breakfast Python Overview SIR Model Type: Discussion [ Slides ] [ SIR Example Code ] Gathering Research Data [ Google Scholar ] Person/Population/Community Objects [ Person Object Example Code ] Adding Mitigation Parameters Data Camp Python Tutorials [ Data Camp Link (Must use a Gmail or Google Linked account) ] Thursday, June 8, 2023 9:00am - 4:00pm CT TACC - ROC 1.468 Breakfast Hackathon Starts Type: Team Work 3:00pm - Team Presentations Deliverables: &nbsp; 1) Github Repo &nbsp; 2) Team Poster with: &nbsp;&nbsp; * Team Name &nbsp;&nbsp; * Team Members &nbsp;&nbsp; * Team Picture &nbsp;&nbsp; * Team Goal &nbsp;&nbsp; * Mitigation Reference &nbsp;&nbsp; * Results (at least one graph) [ Final Presentations Google Slide Deck ] 4:00pm - Closing]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/tacc-codeathon23/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/tacc-codeathon23/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
