@@ -1,3 +1,57 @@
+## Example Team
+#  - teamname: Team HARP
+#    #print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#    #modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+#    #url:  # Full URL
+#    image: assets/teams/team_harp/Team_HARP.jpg # assets/project/
+#    #date: 03/2021 &ndash; Project Teams
+#    #title: COMING SOON!
+#    #summary: Data De-Sensitizer/Anonymizer
+#    #description: >
+#    #  Tasks:
+#    #    Develop data-cleaning framework,
+#    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
+#    #    Working proof-of-concept,
+#    #emojicode: 🤠
+#    #awards:
+#    #    - name: "Viewer's Choice Award"
+#    members:
+#      names: [Aayush Bhatta, Henry Alumona, Pratyush Khanal, Rejin Nepal]
+#      role: Member
+#      affiliation: [Fisk University, Fisk University, Fisk University, Fisk University]
+#      #affinitals: SFU
+#      #url: https://www.sfu.ca/
+#      major: [Computer Science, Computer Science, Computer Science, Computer Science]
+#    links:
+#        - name: Team Introduction
+#          url: assets/teams/the_nwa/the_nwa_intro.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        - name: Theme Song - Teen Titans
+#          tag: themesong
+#          url: https://www.youtube.com/watch?v=yL75mtNZ6PA
+#          icon: "fab fa-youtube"
+#          iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: https://github.com/Aayush000/MS-CC 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: assets/teams/team_harp/Team_HARP.pdf
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+#    images:
+#        - name: Team Introduction
+#          imagelink: assets/teams/team_harp/team_harp_intro-350px.png
+#          url: assets/teams/team_harp/team_harp_intro.pdf
+#        - name: Final Presentation
+#          imagelink: assets/teams/team_harp/Team_HARP-img.png
+#          url: assets/teams/team_harp/Team_HARP.pdf
+
+
+
 teams:
 - teamname: CCAT
   members:
@@ -11,6 +65,32 @@ teams:
     - Chaminade University of Honolulu
     - Chaminade University of Honolulu
     - Texas Advanced Computing Center
+  image: assets/teams/ccat/group.jpg # Frontpage image
+  links:
+    - name: Team Introduction
+      url: assets/teams/ccat/ccat-team_intro.pdf
+      icon: "far fa-file-pdf"
+      iconcolor: "black"
+    - name: "Theme Song: Jurassic Park Theme Song"
+      tag: themesong
+      url: https://www.youtube.com/watch?v=D8zlUUrFK-M&t
+      icon: "fab fa-youtube"
+      iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: 
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"        
+  images:
+    - name: Team Introduction
+      imagelink: assets/teams/ccat/ccat-team_intro.png
+      url: assets/teams/ccat/ccat-team_intro.pdf
+
+
 - teamname: DDES
   members:
     names:
@@ -23,6 +103,32 @@ teams:
     - Purdue University
     - San Francisco State University
     - The University of Texas at San Antonio
+  image: assets/teams/ddes/group.jpg # Frontpage image
+  links:
+    - name: Team Introduction
+      url: assets/teams/ddes/ddes-team_intro.pdf
+      icon: "far fa-file-pdf"
+      iconcolor: "black"
+    - name: "Theme Song: Shake It Off (Instrumental) - Mariah Carey"
+      tag: themesong
+      url: https://www.youtube.com/watch?v=xradzFzJq4E 
+      icon: "fab fa-youtube"
+      iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: 
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+  images:
+    - name: Team Introduction
+      imagelink: assets/teams/ddes/ddes-team_intro.png
+      url: assets/teams/ddes/ddes-team_intro.pdf
+
 - teamname: Scripting Sorcerers
   members:
     names:
@@ -35,6 +141,34 @@ teams:
     - City College of San Francisco
     - Le Moyne College
     - Los Angeles Trade Technical College
+  image: assets/teams/scripting_sorcerers/group.jpg# Frontpage image
+  links:
+    - name: Team Introduction
+      url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
+      icon: "far fa-file-pdf"
+      iconcolor: "black"
+    - name: "Theme Song: DANGER ZONE - TOPGUN Movie Soundtrack"
+      tag: themesong
+      url: https://www.youtube.com/watch?v=kUsFWO08CO0
+      icon: "fab fa-youtube"
+      iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: 
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+  images:
+    - name: Team Introduction
+      imagelink: assets/teams/scripting_sorcerers/ss-team_intro.png
+      url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
+
+
+
 - teamname: Team Avee
   members:
     names:
@@ -47,6 +181,33 @@ teams:
     - Texas A&M Corpus Christi
     - The University of Texas at Austin
     - University of New Haven
+  image: assets/teams/team_avee/group.jpg # Frontpage image
+  links:
+    - name: Team Introduction
+      url: assets/teams/team_avee/avee-team_intro.pdf
+      icon: "far fa-file-pdf"
+      iconcolor: "black"
+    - name: "Theme Song: SpongeBob Music: Twelfth Street Rag"
+      tag: themesong
+      url: https://www.youtube.com/watch?v=m-MZ9XDK1Us
+      icon: "fab fa-youtube"
+      iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: 
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+  images:
+    - name: Team Introduction
+      imagelink: assets/teams/team_avee/avee-team_intro.png
+      url: assets/teams/team_avee/avee-team_intro.pdf
+
+
 - teamname: The BeeHives
   members:
     names:
@@ -59,3 +220,28 @@ teams:
     - Richland College
     - University of California, Berkeley
     - Wellesley College
+  image: assets/teams/the_beehives/group.jpg # Frontpage image
+  links:
+    - name: Team Introduction
+      url: assets/teams/the_beehives/behives-team_intro.pdf
+      icon: "far fa-file-pdf"
+      iconcolor: "black"
+    - name: "Theme Song: Irreplaceable - Beyoncé"
+      tag: themesong
+      url: https://www.youtube.com/watch?v=zDRcHKN2aa8&t=4s
+      icon: "fab fa-youtube"
+      iconcolor: "#ff0c05"
+#        - name: Github Repo
+#          url: 
+#          icon: "fab fa-github"
+#          color: black
+#          tag: github 
+#        - name: Final Presentation
+#          url: 
+#          icon: "far fa-file-pdf"
+#          iconcolor: "black"
+#        
+  images:
+    - name: Team Introduction
+      imagelink: assets/teams/the_beehives/behives-team_intro.png
+      url: assets/teams/the_beehives/behives-team_intro.pdf

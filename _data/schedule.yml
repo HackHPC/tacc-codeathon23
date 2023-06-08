@@ -42,12 +42,15 @@ general_schedule:
       - name: Team Creation and Introductions
         type: Team Work
         links:
-          #- title: Teams Slide Deck
-          #icon:
-          #  url: "assets/Slide_Decks/day_1/MS-CC Groups.pdf"
-          - title: Team Introduction Slides
+          - title: Teams Slide Deck
+            #icon:
+            url: "assets/Slide_Decks/day_2/TACC-Codeathon-2023-Team-Introductions.pdf"
+          - title: Team Introduction Google Slides
             #icon:
             url: "https://docs.google.com/presentation/d/1L4s8Iksy6Q8Egxw5EomP4GBpDgAooq0jOJlUgch9yfs/edit?usp=sharing"
+
+
+
       - name: Jupyter Notebooks
         type: Hands-On
         links:
