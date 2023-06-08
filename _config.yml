@@ -16,7 +16,7 @@ permalink: "/:title/"
 
 logo: assets/imgs/TACC-Codeathon-header-nav.png #'assets/imgs/ms-cccolorssm-text.png'
 favicon: 'assets/favicon.ico'
-headerimage: 'assets/imgs/TACC_Codeathon2023-Header.png'
+headerimage: 'assets/imgs/TACC_Codeathon2023-Header.jpg'
 headerbackground: 'assets/imgs/frontera.jpg' #This is linked to the hero_img class in theme.scss
 
 #twitter_username: ccloudhack
