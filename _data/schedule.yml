@@ -119,6 +119,9 @@ general_schedule:
       - name: Population, Community Objects
       - name: Adding Mitigations
       - name: MatPlotLib
+        links:
+          - title: MatplotLib Tutorial
+            url: https://github.com/ebukows/MatPlotLib
       - name: Research - Hypothesis
       - name: Final Instructions
       - name: Hackathon Starts
@@ -138,5 +141,7 @@ general_schedule:
         links:
           - title: Final Presentations Google Slide Deck
             url: https://docs.google.com/presentation/d/1q_R1yG-PIA1oAmA2s7nYxCnvb3iR_b_0DlYbiyOZR2k/edit?usp=sharing
+          - title: Final Presentations Deck (PDF)
+            url: assets/Slide_Decks/day_4/Codeation23-Final_Presentations.pdf
       - name: Closing
         time: 4:00pm

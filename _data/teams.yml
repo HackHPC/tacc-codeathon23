@@ -74,19 +74,22 @@ teams:
         url: https://www.youtube.com/watch?v=D8zlUUrFK-M&t
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
-    #        - name: Github Repo
-    #          url:
-    #          icon: "fab fa-github"
-    #          color: black
-    #          tag: github
-    #        - name: Final Presentation
-    #          url:
-    #          icon: "far fa-file-pdf"
-    #          iconcolor: "black"
+      - name: Github Repo
+        url: https://github.com/connorvessely/CCAT-hackathon
+        icon: "fab fa-github"
+        color: black
+        tag: github
+      - name: Final Presentation
+        url: assets/teams/ccat/Code-a-thon_CCAT_Presentation.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
     images:
       - name: Team Introduction
         imagelink: assets/teams/ccat/ccat-team_intro.png
         url: assets/teams/ccat/ccat-team_intro.pdf
+      - name: Final Presentation
+        imagelink: assets/teams/ccat/CCAT-Final_Presentations.png
+        url: assets/teams/ccat/Code-a-thon_CCAT_Presentation.pdf
 
   - teamname: DDES
     members:
@@ -111,20 +114,22 @@ teams:
         url: https://www.youtube.com/watch?v=xradzFzJq4E
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
-    #        - name: Github Repo
-    #          url:
-    #          icon: "fab fa-github"
-    #          color: black
-    #          tag: github
-    #        - name: Final Presentation
-    #          url:
-    #          icon: "far fa-file-pdf"
-    #          iconcolor: "black"
-    #
+      - name: Github Repo
+        url: https://github.com/Manny59/DDES2023
+        icon: "fab fa-github"
+        color: black
+        tag: github
+      - name: Final Presentation
+        url: assets/teams/ddes/DDES-CodeathonDeliverable.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
     images:
       - name: Team Introduction
         imagelink: assets/teams/ddes/ddes-team_intro.png
         url: assets/teams/ddes/ddes-team_intro.pdf
+      - name: Final Presentation
+        imagelink: assets/teams/ddes/DDES-FinalPresentations.png
+        url: assets/teams/ddes/DDES-CodeathonDeliverable.pdf
 
   - teamname: Scripting Sorcerers
     members:
@@ -149,20 +154,22 @@ teams:
         url: https://www.youtube.com/watch?v=kUsFWO08CO0
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
-    #        - name: Github Repo
-    #          url:
-    #          icon: "fab fa-github"
-    #          color: black
-    #          tag: github
-    #        - name: Final Presentation
-    #          url:
-    #          icon: "far fa-file-pdf"
-    #          iconcolor: "black"
-    #
+      - name: Github Repo
+        url: https://github.com/xJU4Nx/Scripting-Sorcerers-REU-2023
+        icon: "fab fa-github"
+        color: black
+        tag: github
+      - name: Final Presentation
+        url: assets/teams/scripting_sorcerers/ScriptingSorcerers-Final-Presentation.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
     images:
       - name: Team Introduction
         imagelink: assets/teams/scripting_sorcerers/ss-team_intro.png
         url: assets/teams/scripting_sorcerers/ss-team_intro.pdf
+      - name: Final Presentation
+        imagelink: assets/teams/scripting_sorcerers/FinalPresentations.png
+        url: assets/teams/scripting_sorcerers/ScriptingSorcerers-Final-Presentation.pdf
 
   - teamname: Team Avee
     members:
@@ -187,20 +194,22 @@ teams:
         url: https://www.youtube.com/watch?v=m-MZ9XDK1Us
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
-    #        - name: Github Repo
-    #          url:
-    #          icon: "fab fa-github"
-    #          color: black
-    #          tag: github
-    #        - name: Final Presentation
-    #          url:
-    #          icon: "far fa-file-pdf"
-    #          iconcolor: "black"
-    #
-    images:
+      - name: Github Repo
+        url: https://github.com/eileenliu953/NHERI-AVEE-2023
+        icon: "fab fa-github"
+        color: black
+        tag: github
+      - name: Final Presentation
+        url: assets/teams/team_avee/TeamAvee-Codeation23-Final_Presentations.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+   images:
       - name: Team Introduction
         imagelink: assets/teams/team_avee/avee-team_intro.png
         url: assets/teams/team_avee/avee-team_intro.pdf
+      - name: Final Presentation
+        imagelink: assets/teams/team_avee/AVEE-FinalPresentations.png
+        url: assets/teams/team_avee/TeamAvee-Codeation23-Final_Presentations.pdf
 
   - teamname: The BeeHives
     members:
@@ -225,17 +234,19 @@ teams:
         url: https://www.youtube.com/watch?v=zDRcHKN2aa8&t=4s
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
-    #        - name: Github Repo
-    #          url:
-    #          icon: "fab fa-github"
-    #          color: black
-    #          tag: github
-    #        - name: Final Presentation
-    #          url:
-    #          icon: "far fa-file-pdf"
-    #          iconcolor: "black"
-    #
+      - name: Github Repo
+        url: https://github.com/Rac1224/BeeHives
+        icon: "fab fa-github"
+        color: black
+        tag: github
+      - name: Final Presentation
+        url: assets/teams/the_beehives/BeeHives-Codeation23-Final_Presentations.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
     images:
       - name: Team Introduction
         imagelink: assets/teams/the_beehives/behives-team_intro.png
         url: assets/teams/the_beehives/behives-team_intro.pdf
+      - name: Final Presentation
+        imagelink: assets/teams/the_beehives/BeeHives-Final_Presentations.png
+        url: assets/teams/the_beehives/BeeHives-Codeation23-Final_Presentations.pdf
