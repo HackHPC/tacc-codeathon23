@@ -203,7 +203,7 @@ teams:
         url: assets/teams/team_avee/TeamAvee-Codeation23-Final_Presentations.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
-   images:
+    images:
       - name: Team Introduction
         imagelink: assets/teams/team_avee/avee-team_intro.png
         url: assets/teams/team_avee/avee-team_intro.pdf
